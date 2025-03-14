@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\12015\source\repos\LavirintLana\LavirintLana\main.cpp(429,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\12015\source\repos\LavirintLana\LavirintLana\main.cpp(430,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\12015\source\repos\LavirintLana\LavirintLana\main.cpp(469,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LavirintLana.vcxproj -> C:\Users\12015\source\repos\LavirintLana\x64\Debug\LavirintLana.exe
